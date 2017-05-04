@@ -1,6 +1,8 @@
 # MovieSuccesAnalysis
 Social Media Mining Project
 
+dev-SMM folder:
+
 MovieSuccess.ipynb Notebook contains code to Do Analysis of Movies from 2008-16
 Remainig .py files were used to scrap movie data from web
 
